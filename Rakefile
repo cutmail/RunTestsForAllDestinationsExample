@@ -1,4 +1,5 @@
 SCHEME = "Example"
+
 DESTINATIONS = ["name=iPhone,OS=6.1",
                 "name=iPhone Retina (3.5-inch),OS=6.1",
                 "name=iPhone Retina (3.5-inch),OS=7.0",
